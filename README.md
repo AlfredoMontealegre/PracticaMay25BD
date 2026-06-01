@@ -1,2 +1,5 @@
-# PracticaMay25BD
-Practica de Ejercicio de Base de Datos I
+# BD - Mantenimiento Preventivo y Correctivo
+## Alfredo Montealegre
+## Juan Romero
+## Debora Solis
+## Christopher Santana
